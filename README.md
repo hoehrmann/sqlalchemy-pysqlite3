@@ -19,6 +19,6 @@ pip install sqlalchemy-pysqlite3
 
 ```python
 from sqlalchemy import create_engine
+
 engine = create_engine('sqlite+pysqlite3:///:memory:', echo=True)
-''')]
 ```
