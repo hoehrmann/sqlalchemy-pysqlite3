@@ -1,0 +1,3 @@
+*.pm text eol=lf
+*.pl text eol=lf
+*.py text eol=lf
