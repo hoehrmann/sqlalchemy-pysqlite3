@@ -12,7 +12,7 @@ It would also be possible to do by passing a `module` parameter to
 ## Installation
 
 ```bash
-pip install pysqlite3-sqlalchemy-dialect
+pip install sqlalchemy-pysqlite3
 ```
 
 ## Synopsis
