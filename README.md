@@ -1,4 +1,4 @@
-# pysqlite3-sqlalchemy-dialect
+# sqlalchemy-pysqlite3
 
 This module registers an SQLAlchemy dialect for `sqlite` that uses
 `pysqlite3.dbapi2` instead of `pysqlite2.dbapi2` or `sqlite3.dbapi2`.

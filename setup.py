@@ -5,7 +5,7 @@ with open('README.md', 'r') as fh:
 
 setuptools.setup(
   name='sqlalchemy_pysqlite3',
-  version='0.0.1',
+  version='0.0.3',
   author='Bjoern Hoehrmann',
   author_email='bjoern@hoehrmann.de',
   description='SQLAlchemy dialect to use pysqlite3 dbapi2',
